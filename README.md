@@ -1,2 +1,2 @@
-# data-visualization-pima-indians-diabetes-dataset
-We are gaining insights from the PIMA Indians diabetes dataset and predicting the chances of diabetes.
+# PIMA Indians Diabetes Prediction
+Gaining insights from the PIMA Indians diabetes dataset and predicting the chances of diabetes.
